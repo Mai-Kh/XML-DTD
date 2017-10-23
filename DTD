@@ -1,0 +1,12 @@
+<!ELEMENT days (#PCDATA)>
+
+<!ELEMENT location(#PCDATA)>
+
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone type (office | fax)#REQUIRED>
+
+<!ELEMENT email (#PCDATA)>
+
+<!ELEMENT resources (#PCDATA)>
+
+<!ELEMENT profile (Name, major, college, interest)>
