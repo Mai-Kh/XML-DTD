@@ -9,4 +9,8 @@
 
 <!ELEMENT resources (#PCDATA)>
 
-<!ELEMENT profile (Name, major, college, interest)>
+<!ELEMENT profile (#PCDATA)>
+  <!ELEMENT Name (#PCDATA)>
+  <!ELEMENT major (#PCDATA)>
+  <!ELEMENT college (#PCDATA)>
+  <!ELEMENT interest (#PCDATA)>
