@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <DLRC>
 
-	<audience>
+	<audience> 
 	  <audience>dental students, staff, faculty</audience>
 	 </audience>
 
-  	<DLRC Info>
+  	<DLRC Info> 
 	  <hours>7:30AM-7:30PM</hours>
 	  <days>Monday-Friday</days>
 	  <location>Moos Tower, 8-425</location>
